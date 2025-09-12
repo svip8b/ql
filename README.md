@@ -1,4 +1,4 @@
-# 🚀 AutoScripts
+# 🚀 AutoQLScripts
 
 > 原创Python脚本集合，适用于青龙面板，所有脚本使用说明请看脚本内注释
 
