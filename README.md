@@ -10,7 +10,7 @@
 	https://gh.qninq.cn/https://github.com/svip8b/ql.git
 ```
 
-**拉库建议定时Cron：** `0 0 * * *`
+**拉库建议定时Cron：** `0 0 * * *` 
 
 ---
 
