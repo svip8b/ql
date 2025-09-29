@@ -43,8 +43,6 @@ class XingChuanYue:
                     account, password = line.split('#', 1)
                     accounts.append((account.strip(), password.strip()))
 
-        # 添加预设账号
-        accounts.append(('255143191@qq.com', '123456789q'))
 
         return accounts
 
